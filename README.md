@@ -1,2 +1,2 @@
 # Calculator
-I made Calculator using java language
+It is  Calculator made by using  java language
